@@ -10,7 +10,10 @@ To use the animated background in your project, include the provided CSS rules i
 
 Check out the live demo below to see the animation in action:
 
-[![Animated Background Example](https://user-images.githubusercontent.com/49816567/122545573-213c3780-d035-11eb-897c-6cbf8f796b80.png)](https://codepen.io/MattEzekiel/pen/WNBXWdv)
+<video width="100%" controls>
+  <source src="https://github.com/MattEzekiel/background-color-animation/blob/main/a1c865a3c038fdf5b16facebcaefa6a6.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Feel free to modify the colors and animation duration to suit your design needs.
 
