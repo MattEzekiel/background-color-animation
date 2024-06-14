@@ -10,10 +10,7 @@ To use the animated background in your project, include the provided CSS rules i
 
 Check out the live demo below to see the animation in action:
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Animated Background Example" src="https://codepen.io/MattEzekiel/embed/WNBXWdv?default-tab=result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/MattEzekiel/pen/WNBXWdv'>Animated Background Example</a> by MattEzekiel
-  (<a href='https://codepen.io/MattEzekiel'>@MattEzekiel</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+[![Animated Background Example](https://user-images.githubusercontent.com/49816567/122545573-213c3780-d035-11eb-897c-6cbf8f796b80.png)](https://codepen.io/MattEzekiel/pen/WNBXWdv)
 
 Feel free to modify the colors and animation duration to suit your design needs.
 
