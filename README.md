@@ -19,6 +19,6 @@ Feel free to modify the colors and animation duration to suit your design needs.
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE]([LICENSE](https://github.com/MattEzekiel/background-color-animation/blob/main/LICENSE.md))  file for details.
 
 Enjoy! 🚀
