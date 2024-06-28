@@ -1,3 +1,6 @@
+[![Github Sponsors](https://img.shields.io/badge/Sponsor-30363D?&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/mattezekiel)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://cafecito.app/mattezekiel)
+
 # 🌈 Animated Background Example
 
 This repository showcases a simple animated background using CSS. The animation creates a smooth, color-changing effect across the background.
